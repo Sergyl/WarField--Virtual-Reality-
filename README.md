@@ -6,3 +6,4 @@ La comunicación entre los jugadores se realiza empleando una API gratuita (en e
 
 Esta versión del proyecto solo se puede jugar en las Oculus Go, aun así, estos dos proyectos son cross-platform, por lo tanto un jugador de las Oculus Go puede conectarse con otro jugador de PC. El proyecto adaptado para PC se encuentra en otro repositorio.
  
+SCRIPTS: EN LA CARPTETA ASSETS/SCRIPTS se pueden encontrar todos los scripts del juego que se ha desarrollado.
